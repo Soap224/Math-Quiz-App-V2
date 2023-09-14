@@ -62,6 +62,7 @@ class WelcomeActivity : AppCompatActivity() {
             exitDialog.dismiss()
         }
 
+
     }
     private fun onBackPressedMethod() {
         exitDialog.show()
